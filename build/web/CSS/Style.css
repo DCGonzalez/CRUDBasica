@@ -1,0 +1,97 @@
+body
+{
+    height: 180px;
+    background-color: #FFFFFF;
+    font-family: Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 18pt;
+    text-align: center;
+}
+
+.labtit
+{
+    font: 28pt Tahoma;
+    font-weight: bolder;
+    color: #0A84C5;
+}
+
+.labinf
+{
+    font: 22pt Tahoma;
+    font-weight: bolder;
+    color: #000000;
+}
+
+.labmen
+{
+    font: 14pt Tahoma;
+    font-weight: bolder;
+    color: #DC040B;
+}
+
+.lablin
+{
+    font: 22pt Tahoma;
+    font-weight: bolder;
+    color: #000000;
+}
+
+.lablin:hover
+{
+    cursor: pointer;
+}
+
+.labact
+{
+    font: 14pt Tahoma;
+    font-weight: bolder;
+    color: #DC040B;
+}
+
+.labact:hover
+{
+    cursor: pointer;
+}
+
+
+.txtdat
+{
+    border-radius: 6px;
+    background: #FFFFFF;
+    font: 16pt Tahoma;
+    font-weight: bolder;
+    color: #000000;
+    margin: 0px;
+    height: 20px;
+    width: 180px;
+    float: center;
+}
+
+.txtdat:hover
+{
+    background-color: #F1F5F8;
+}
+
+
+.btndat
+{
+    border-radius: 6px;
+    background: #DC040B;
+    font: 18pt Tahoma;
+    font-weight: bolder;
+    color: #FFFFFF;
+    margin: 0px;
+    height: 40px;
+    width: 180px;
+    float: center;
+}
+
+.btndat:hover
+{
+    background-color: #0A84C5;
+}
+
+*:focus
+{ 
+    outline:none;
+}
